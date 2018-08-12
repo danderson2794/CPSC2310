@@ -1,0 +1,2 @@
+When you get input from command line, r0 is argc (argc - 1 is what I'll need) and argv[x] is in r1.
+I'll have to iterate through the char array looking for the individual values.
